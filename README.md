@@ -40,9 +40,6 @@
       <tr>
         <td align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mikhailkollen&show_icons=true&locale=en" alt="mikhailkollen" /></td>
       </tr>
-      <tr>
-        <td align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mikhailkollen&" alt="mikhailkollen" /></td>
-      </tr>
     </tbody>
   </table>
 </body>
